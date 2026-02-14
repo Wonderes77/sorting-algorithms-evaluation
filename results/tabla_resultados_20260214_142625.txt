@@ -1,0 +1,24 @@
+
+====================================================================================================
+RESULTADOS DE PRUEBAS DE RENDIMIENTO
+====================================================================================================
+
+Algoritmo       Escenario            Tamaño       Repeticiones Promedio (ms)   Desv. Est. (ms)
+----------------------------------------------------------------------------------------------------
+Bubble Sort     aleatoria            100          5            0.9606          0.0296         
+QuickSort       aleatoria            100          5            0.3663          0.0376         
+Bubble Sort     invertida            100          5            1.3476          0.5270         
+QuickSort       invertida            100          5            0.2368          0.0202         
+Bubble Sort     aleatoria            1,000        5            137.5748        19.3789        
+QuickSort       aleatoria            1,000        5            4.3379          1.6750         
+Bubble Sort     invertida            1,000        5            152.4412        21.8625        
+QuickSort       invertida            1,000        5            5.6164          2.6239         
+Bubble Sort     aleatoria            5,000        5            2600.8504       651.8291       
+QuickSort       aleatoria            5,000        5            20.3087         3.3549         
+Bubble Sort     invertida            5,000        5            3086.2112       615.7507       
+QuickSort       invertida            5,000        5            20.3439         3.1429         
+Bubble Sort     aleatoria            10,000       5            9628.7896       1828.4712      
+QuickSort       aleatoria            10,000       5            37.1382         4.6139         
+Bubble Sort     invertida            10,000       5            14121.4481      1272.5419      
+QuickSort       invertida            10,000       5            59.2689         24.6153        
+====================================================================================================

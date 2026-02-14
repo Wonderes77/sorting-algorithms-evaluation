@@ -1,0 +1,258 @@
+[
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "aleatoria",
+    "tamano": 100,
+    "repeticiones": 5,
+    "promedio_segundos": 0.0009606400039047003,
+    "desviacion_estandar": 2.961980746199154e-05,
+    "tiempos_individuales": [
+      0.0009303000115323812,
+      0.0009918000141624361,
+      0.0009433999948669225,
+      0.0009931999957188964,
+      0.0009445000032428652
+    ],
+    "promedio_ms": 0.9606400039047003
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "aleatoria",
+    "tamano": 100,
+    "repeticiones": 5,
+    "promedio_segundos": 0.00036634000716730954,
+    "desviacion_estandar": 3.7624702583922665e-05,
+    "tiempos_individuales": [
+      0.00040160000207833946,
+      0.0003330000035930425,
+      0.00041160002001561224,
+      0.0003512999974191189,
+      0.00033420001273043454
+    ],
+    "promedio_ms": 0.3663400071673095
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "invertida",
+    "tamano": 100,
+    "repeticiones": 5,
+    "promedio_segundos": 0.0013476199994329364,
+    "desviacion_estandar": 0.0005269985562434296,
+    "tiempos_individuales": [
+      0.001426500006346032,
+      0.0015465999895241112,
+      0.0008038000087253749,
+      0.0008747999963816255,
+      0.002086399996187538
+    ],
+    "promedio_ms": 1.3476199994329363
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "invertida",
+    "tamano": 100,
+    "repeticiones": 5,
+    "promedio_segundos": 0.0002368000044953078,
+    "desviacion_estandar": 2.018377068207568e-05,
+    "tiempos_individuales": [
+      0.0002229000092484057,
+      0.00021180001203902066,
+      0.00025779998395591974,
+      0.0002355000178795308,
+      0.00025599999935366213
+    ],
+    "promedio_ms": 0.2368000044953078
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "aleatoria",
+    "tamano": 1000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.13757477999897674,
+    "desviacion_estandar": 0.019378863342595972,
+    "tiempos_individuales": [
+      0.15705730000627227,
+      0.1595091999915894,
+      0.12946959998225793,
+      0.12415489999693818,
+      0.11768290001782589
+    ],
+    "promedio_ms": 137.57477999897674
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "aleatoria",
+    "tamano": 1000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.0043379399983678015,
+    "desviacion_estandar": 0.0016749721173652827,
+    "tiempos_individuales": [
+      0.003511099988827482,
+      0.007212600001366809,
+      0.0035755000135395676,
+      0.0030366999853868037,
+      0.004353800002718344
+    ],
+    "promedio_ms": 4.337939998367801
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "invertida",
+    "tamano": 1000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.15244122000876814,
+    "desviacion_estandar": 0.021862525119459006,
+    "tiempos_individuales": [
+      0.15875400000368245,
+      0.13813910001772456,
+      0.12707300001056865,
+      0.18441000001621433,
+      0.15382999999565072
+    ],
+    "promedio_ms": 152.44122000876814
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "invertida",
+    "tamano": 1000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.0056163999950513245,
+    "desviacion_estandar": 0.0026239121727253747,
+    "tiempos_individuales": [
+      0.003802999999606982,
+      0.008916799997678027,
+      0.004735299997264519,
+      0.002823599992552772,
+      0.007803299988154322
+    ],
+    "promedio_ms": 5.616399995051324
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "aleatoria",
+    "tamano": 5000,
+    "repeticiones": 5,
+    "promedio_segundos": 2.6008504199970046,
+    "desviacion_estandar": 0.6518291323170503,
+    "tiempos_individuales": [
+      2.869793899997603,
+      3.5920102999953087,
+      2.2556237000098918,
+      1.9119868999987375,
+      2.374837299983483
+    ],
+    "promedio_ms": 2600.850419997005
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "aleatoria",
+    "tamano": 5000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.020308700000168756,
+    "desviacion_estandar": 0.0033548836671233083,
+    "tiempos_individuales": [
+      0.02179460000479594,
+      0.024804299988318235,
+      0.020943300012731925,
+      0.017396599985659122,
+      0.016604700009338558
+    ],
+    "promedio_ms": 20.308700000168756
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "invertida",
+    "tamano": 5000,
+    "repeticiones": 5,
+    "promedio_segundos": 3.0862112400005572,
+    "desviacion_estandar": 0.615750673173571,
+    "tiempos_individuales": [
+      2.530458599998383,
+      3.019595699995989,
+      2.5077291000052355,
+      3.4149430000106804,
+      3.958329799992498
+    ],
+    "promedio_ms": 3086.211240000557
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "invertida",
+    "tamano": 5000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.02034390000626445,
+    "desviacion_estandar": 0.003142908100718286,
+    "tiempos_individuales": [
+      0.023196399997686967,
+      0.024025200022151694,
+      0.0185938999929931,
+      0.01924000002327375,
+      0.016663999995216727
+    ],
+    "promedio_ms": 20.343900006264448
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "aleatoria",
+    "tamano": 10000,
+    "repeticiones": 5,
+    "promedio_segundos": 9.628789640002651,
+    "desviacion_estandar": 1.828471218734555,
+    "tiempos_individuales": [
+      11.222279700014042,
+      7.699408899992704,
+      10.12289649999002,
+      11.401012100017397,
+      7.698350999999093
+    ],
+    "promedio_ms": 9628.789640002651
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "aleatoria",
+    "tamano": 10000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.03713823999860324,
+    "desviacion_estandar": 0.004613888811391215,
+    "tiempos_individuales": [
+      0.04475609998917207,
+      0.038282600027741864,
+      0.034053999988827854,
+      0.034000699990428984,
+      0.034597799996845424
+    ],
+    "promedio_ms": 37.13823999860324
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "escenario": "invertida",
+    "tamano": 10000,
+    "repeticiones": 5,
+    "promedio_segundos": 14.121448059997055,
+    "desviacion_estandar": 1.2725419192985237,
+    "tiempos_individuales": [
+      13.396605699992506,
+      13.200496700010262,
+      13.203587600000901,
+      14.704964799981099,
+      16.10158550000051
+    ],
+    "promedio_ms": 14121.448059997056
+  },
+  {
+    "algoritmo": "QuickSort",
+    "escenario": "invertida",
+    "tamano": 10000,
+    "repeticiones": 5,
+    "promedio_segundos": 0.05926886000088416,
+    "desviacion_estandar": 0.02461527197457573,
+    "tiempos_individuales": [
+      0.1015188000164926,
+      0.06050689998664893,
+      0.0441724999982398,
+      0.04332460000296123,
+      0.04682150000007823
+    ],
+    "promedio_ms": 59.26886000088416
+  }
+]
