@@ -198,11 +198,12 @@ Este análisis es especialmente relevante para sistemas robóticos donde:
 
 ## 👨‍💻 Autor
 
-**Wondores77**
+**ESMERALDA GÓMEZ HUERTA**
+
 - Proyecto: Evaluación de Algoritmos de Ordenamiento
 - Programa: Ingeniería en Robótica
 - Fecha: Febrero 2026
-- Repositorio: https://github.com/Wondores77/sorting-algorithms-evaluation
+- Repositorio: https://github.com/Wonderes77/sorting-algorithms-evaluation
 
 ---
 
